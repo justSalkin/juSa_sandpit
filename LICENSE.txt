@@ -1,0 +1,25 @@
+
+License Agreement for juSa_sandpit
+
+This License Agreement (the "Agreement") is entered into between the licensor juSa Scripts ("Licensor") and you, the Licensee.
+
+Grant of License: 
+Licensor hereby grants you a non-exclusive, non-transferable license to use the juSa_sandpit (the "script") solely for your personal
+or internal business purposes. You may modify or customize the script to meet your specific needs.
+
+Restrictions:
+a. You may not sell, rent, lease, sublicense, distribute, share, transfer or otherwise make the script or any portion of the script available to any third party.
+b. You may not create derivative works based on the script in violation of these restrictions.
+
+Proprietary Rights: 
+Licensor retains all right, title and interest in the script, including all copyrights and other intellectual property rights.
+This license does not grant you any rights in the script other than those expressly granted herein.
+
+Disclaimer: 
+The script is provided "as is" without warranty of any kind. Licensor disclaims all warranties, express or implied, including, but not limited
+to, the implied warranties of merchantability and fitness for a particular purpose.
+
+Governing Law: 
+This agreement shall be governed by and construed in accordance with the laws of Germany.
+
+By using the script, you agree to be bound by the terms of this license agreement.
